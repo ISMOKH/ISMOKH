@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ISMOKH
 - 👀 I’m interested in Programming and networking
 - 🌱 I’m currently learning IT
-- hello 
+- hello
+- hi
 
 changes
 <!---
